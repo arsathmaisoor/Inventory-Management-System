@@ -1,0 +1,4 @@
+Apple 400 50 10 45 L
+Orange 400 40 10 36 L
+Grapes 1500 60 0 60.6 L
+Beans 1500 60 10 54 L

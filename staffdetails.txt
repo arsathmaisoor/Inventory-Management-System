@@ -1,0 +1,7 @@
+JD	Owner	13.10.2018
+Manoj_Kumar	Manager	15.10.2018
+
+DS_Sen	Cashier	25.10.2020
+Siva	Manager	25.10.2021
+Savendra	Floor_Worker	20.1.2020
+Gota	Manager	25.03.2020

@@ -1,0 +1,1 @@
+(Cashier) Hema		(Customer) Raj		(Item) Carrot_Beans

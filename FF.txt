@@ -1,0 +1,8 @@
+Frozen_Pizza	DOMINO's	10	1000	10	900	I
+Frozen_Pizza	CAKE's	20	890	5	845.5	L
+Frozen_Sweet_Corn	FARMHOUSE	30	1200	5	1140	I
+Frozen_Sweet_Corn	JACK	15	2300	3	2231	I
+Frozen_String_Hoppers	ALLI	15	450	5	427.5	L
+Frozen_String_Hoppers	SATHYA	40	600	3	582	L
+Frozen_Chicken	BAIRAHA	23	850	1	841.5	L
+Frozen_Chicken	CHICK's	30	750	0	750	L
